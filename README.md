@@ -22,4 +22,4 @@ The 2023-24 Winston-Salem Volleyball results was web scraped and aggregated into
 https://stats.ncaa.org/teams/559501
 
 # Future Work
-The Streamlit App could be expanded to include the Opponents Volleyball results. This would allow a side-by-side performance comparison of the two collegiate teams that would promote further analysis.
+The Streamlit App could be expanded to include the Opponents Volleyball results. This expansion would allow a side-by-side performance comparison of the two collegiate teams for further analysis.
