@@ -4,7 +4,7 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wssuvolleyball.streamlit.app/)
 
 # Introdution
-This Streamlit App provides visuals of key performance indicators in the Winston-Salem Ram's volleyball season.
+The Streamlit App provides visuals of key performance indicators in the Winston-Salem Ram's volleyball season.
 Peformance Indicators include:
 - Service Aces filtered by Opponent
 - Digs summarized by Defensive/Specialist
