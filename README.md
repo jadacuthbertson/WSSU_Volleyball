@@ -14,7 +14,7 @@ Peformance Indicators include:
 - Kills totaled by each Player
 
 # Data Sources
-The 2023-24 Winston-Salem Volleyball results was web scraped and aggregated into a single csv file from the National College Athletic Association web page.
+The 2023-24 Winston-Salem Volleyball results was web scraped and aggregated into a single csv file from the National College Athletic Association web page linked below.
 
 
 
